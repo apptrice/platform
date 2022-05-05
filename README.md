@@ -1,2 +1,2 @@
 # platform
-Transforming Laravel into the unified application bus for unlimited use cases
+Transforming Laravel into the universal application bus for unlimited use cases

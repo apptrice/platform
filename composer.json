@@ -1,0 +1,18 @@
+{
+    "name": "apptrice/platform",
+    "description": "Apptrice Platform for Laravel",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+      {
+        "name": "Apptrice",
+        "email": "platform@apptrice.com"
+      }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+          "Apptrice\\Platform\\": "src"
+        }
+      }
+  }
